@@ -7,7 +7,7 @@ PAGE = """
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Task List</title>
+  <title>My  List</title>
   <style>
     body { font-family: system-ui, sans-serif; background: #f4f6f8; margin: 0; }
     main { max-width: 480px; margin: 3rem auto; background: #fff; padding: 2rem;
